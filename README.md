@@ -1,4 +1,13 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+- [DEMO LINK](https://BudnikOleksii.github.io/2048_game/)
+
+### 2048 game
+
+Description: 2048 is a single-player sliding block puzzle game designed by Italian web developer Gabriele Cirulli. The game’s objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048. However, one can continue to play the game after reaching the goal, creating tiles with larger numbers.
+
+1) Use "Start" for start game.
+2) If you want restart press button "Reset".
+3) Move cells with keyboard arrows.
+4) If you reach 2048, you win, congratulations!🎉🎉🎉
+5) Enjoy, but don't play too long😉
+
+![Preview](./src/images/reference.png)
